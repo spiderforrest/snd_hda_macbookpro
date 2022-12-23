@@ -1,3 +1,5 @@
+# nonworking. for the record.
+
 # snd_hda_macbookpro
 
 This is a kernel driver for sound on Macs with Cirrus 8409 HDA chips.
